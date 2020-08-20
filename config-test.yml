@@ -1,2 +1,4 @@
+server:
+  port: 3355
 config:
   info: "master branch,Spring-Cloud-Config/config-test.yml version=2" 
